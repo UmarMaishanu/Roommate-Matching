@@ -79,3 +79,38 @@ Six complementary modelling notations were applied:
 ---
 
 ## Repository Structure
+roommate-matching-system/
+├── docs/
+│   ├── coursework-report.pdf     ← Upload your actual document here
+│   ├── diagrams/
+│   │   ├── use-case-diagram.png
+│   │   ├── bpmn-diagrams/
+│   │   ├── er-diagram.png
+│   │   ├── class-diagram.png
+│   │   ├── sequence-diagrams/
+│   │   └── state-diagram.png
+│   └── api-specification.md
+└── README.md
+---
+
+## Key Design Decisions
+
+**Preference-based matching** — compatibility scores computed from weighted preference 
+vectors (sleep schedule, study habits, cleanliness, social preferences).
+
+**Controlled communication** — messaging restricted to mutually connected students 
+for safety and moderation.
+
+**Group consensus** — all members must individually confirm before joint application 
+submission, preventing coercion or premature submission.
+
+---
+
+## Author
+
+**Umar Hamza Maishanu**  
+B.Sc. Information Technology, DSTU Russia  
+[LinkedIn](https://linkedin.com/in/umarhamzamaishanu) · [GitHub](https://github.com/UmarMaishanu)
+
+---
+*System analysis and architectural design artefact — specification phase of software development.*
