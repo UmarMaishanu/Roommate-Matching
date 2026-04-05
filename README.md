@@ -110,7 +110,7 @@ submission, preventing coercion or premature submission.
 
 **Umar Hamza Maishanu**  
 B.Sc. Information Technology, DSTU Russia  
-[LinkedIn](https://linkedin.com/in/umarhamzamaishanu) · [GitHub](https://github.com/UmarMaishanu)
+[LinkedIn](https://www.linkedin.com/mwlite/profile/in/umar-hamza-maishanu-8721a6222?trk=contact-info) · [GitHub](https://github.com/UmarMaishanu)
 
 ---
 *System analysis and architectural design artefact — specification phase of software development.*
